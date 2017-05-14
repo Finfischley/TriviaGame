@@ -1,0 +1,53 @@
+body {
+	background-size: 100%;
+	background-image: url("../images/background.jpg");
+}
+
+#header {
+	position: absolute;
+	top: 450px;
+	left: 515px;
+	font-family: 'Pacifico', cursive;
+	font-weight: strong;
+	font-size: 60px;
+	color: #DAA520;
+	border-width: 3px;
+	border: black;
+
+}
+
+#clock {
+	position: absolute;
+	font-size: 80px;
+	color: #fff;
+	top: 330px;
+	left: 1120px;
+
+}
+
+#start {
+	position: absolute;
+	background: black;
+	font-size: 60px;
+	top: 340px;
+	left: 75px;
+	color: ;
+}
+
+.questions {
+	color: #fff;
+}
+
+#right {
+	position: absolute;
+	top: 520px;
+	left: 18px;
+	color: #fff;
+}
+
+#wrong {
+	position: absolute;
+	top: 538px;
+	left: 18px;
+	color: #fff;
+}
